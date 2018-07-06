@@ -1,0 +1,9 @@
+Django
+mysqlclient
+wheel
+gunicorn
+psycopg2
+Jinja2
+django-widget-tweaks
+django-tables2==2.0.0a2
+tablib
